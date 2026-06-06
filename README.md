@@ -113,5 +113,18 @@ MIT License – feel free to use, modify, and share.
 ## Acknowledgments
 
 - Inspired by classic “balloon pop” and arcade shooting games.
-- Built with ☕ and lots of bubble physics.
+- Built with and lots of bubble physics.
 
+##  Contact
+
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
