@@ -61,7 +61,7 @@ bubble-hit-game/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository**
    ```bash
@@ -73,11 +73,11 @@ bubble-hit-game/
    - Double-click `index.html` – it will open in your default browser.
    - Or use a local dev server (e.g., Live Server in VS Code).
 
-3. **Start popping!** 🎈
+3. **Start popping!**
 
 ---
 
-## 📱 Mobile Play
+## Mobile Play
 
 The game works on touch devices:
 - Tap directly on a bubble to pop it.
@@ -86,7 +86,7 @@ The game works on touch devices:
 
 ---
 
-## 🧪 Customization Ideas
+## Customization Ideas
 
 Want to tweak the game? Edit the constants at the top of the script section in `index.html`:
 
@@ -104,7 +104,7 @@ You can also:
 
 ---
 
-## 📄 License
+## License
 
 MIT License – feel free to use, modify, and share.
 
