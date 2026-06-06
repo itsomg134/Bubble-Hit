@@ -3,8 +3,8 @@
 **Pop, Splash, and Score!**  
 A fast-paced reflex game where bubbles rise from the bottom, and you must click (or tap) them before they escape. Every pop adds +10 to your score, but let just one bubble reach the top — and it's game over!
 
-![Game Preview](https://via.placeholder.com/800x400?text=Bubble+Hit+Gameplay)  
-*(Add a real screenshot or GIF of your game here for best results)*
+<img width="1876" height="970" alt="image" src="https://github.com/user-attachments/assets/36cffb3b-546c-49b9-bfde-ec84760d21f9" />
+
 
 
 ---
