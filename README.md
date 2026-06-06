@@ -21,7 +21,7 @@ A fast-paced reflex game where bubbles rise from the bottom, and you must click 
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Click (or tap) on any bubble before it reaches the **top edge** of the screen.
 2. Each popped bubble gives you **+10 points**.
@@ -32,7 +32,7 @@ A fast-paced reflex game where bubbles rise from the bottom, and you must click 
 
 ---
 
-## 🧠 Game Logic
+## Game Logic
 
 - Bubbles spawn continuously up to a **maximum of 45** on screen.
 - Bubble radius: `24–48 px` • Speed: `0.65–1.65 px/frame`
@@ -41,7 +41,7 @@ A fast-paced reflex game where bubbles rise from the bottom, and you must click 
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5 Canvas** – Smooth rendering and animations.
 - **Vanilla JavaScript** – No external libraries or frameworks.
@@ -49,7 +49,7 @@ A fast-paced reflex game where bubbles rise from the bottom, and you must click 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 bubble-hit-game/
