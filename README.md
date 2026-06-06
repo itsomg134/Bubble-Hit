@@ -115,14 +115,3 @@ MIT License – feel free to use, modify, and share.
 - Inspired by classic “balloon pop” and arcade shooting games.
 - Built with ☕ and lots of bubble physics.
 
----
-
-## 📬 Contact
-
-Have feedback or suggestions?  
-Open an issue or reach out via [GitHub Discussions](https://github.com/your-username/bubble-hit/discussions).
-
----
-
-**Happy popping!** 💥🎈  
-```
