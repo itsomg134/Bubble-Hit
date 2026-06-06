@@ -6,10 +6,6 @@ A fast-paced reflex game where bubbles rise from the bottom, and you must click 
 ![Game Preview](https://via.placeholder.com/800x400?text=Bubble+Hit+Gameplay)  
 *(Add a real screenshot or GIF of your game here for best results)*
 
-## 🕹️ Play Now
-
-You can play the game directly in your browser:  
-👉 **[Live Demo on GitHub Pages](#)** *(replace with your actual GitHub Pages URL)*
 
 ---
 
