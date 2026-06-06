@@ -9,15 +9,15 @@ A fast-paced reflex game where bubbles rise from the bottom, and you must click 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🫧 **Rising bubbles** – Different sizes, colors, and speeds.
-- 🖱️ **Click or tap** – Play with mouse or touch (mobile friendly).
-- 🏆 **Persistent High Score** – Your best score is saved in your browser.
-- 💥 **Explosive feedback** – Visual and text pop effects.
-- 🎨 **Glossy bubble design** – With highlights and a playful underwater theme.
-- 📱 **Responsive layout** – Works on desktop, tablet, and mobile screens.
-- 🔁 **Quick restart** – Instantly start a new game.
+-  **Rising bubbles** – Different sizes, colors, and speeds.
+-  **Click or tap** – Play with mouse or touch (mobile friendly).
+-  **Persistent High Score** – Your best score is saved in your browser.
+-  **Explosive feedback** – Visual and text pop effects.
+-  **Glossy bubble design** – With highlights and a playful underwater theme.
+-  **Responsive layout** – Works on desktop, tablet, and mobile screens.
+-  **Quick restart** – Instantly start a new game.
 
 ---
 
