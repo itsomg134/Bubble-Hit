@@ -110,7 +110,7 @@ MIT License – feel free to use, modify, and share.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - Inspired by classic “balloon pop” and arcade shooting games.
 - Built with ☕ and lots of bubble physics.
